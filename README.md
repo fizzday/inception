@@ -14,6 +14,7 @@ Inception是一个开源系统，每个人或者每个公司都可以自由使�
 ## 文档地址：
 
 http://mysql-inception.github.io/inception-document/
+https://github.com/wowq/inception-document
 
 ## 联系方式
 
